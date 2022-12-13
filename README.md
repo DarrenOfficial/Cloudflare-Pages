@@ -2,21 +2,26 @@
 
 Custom HTML pages for cloudflare pro and higher
 
-https://cloudflare-pages.joshsevero.dev/waf_block.html
+https://propertyof.pages.dev/waf_block.html
 ----
-https://cloudflare-pages.joshsevero.dev/waf.html
+https://propertyof.pages.dev/waf.html
 ----
-https://cloudflare-pages.joshsevero.dev/under_attack.html
+https://propertyof.pages.dev/under_attack.html
 ----
-https://cloudflare-pages.joshsevero.dev/timedout.html
+https://propertyof.pages.dev/timedout.html
 ----
-https://cloudflare-pages.joshsevero.dev/managed_challange.html
+https://propertyof.pages.dev/managed_challange.html
 ----
-https://cloudflare-pages.joshsevero.dev/ip_block.html
+https://propertyof.pages.dev/ip_block.html
 ----
-https://cloudflare-pages.joshsevero.dev/always_online.html
+https://propertyof.pages.dev/always_online.html
 ----
-https://cloudflare-pages.joshsevero.dev/500.html
+https://propertyof.pages.dev/500.html
 ----
-https://cloudflare-pages.joshsevero.dev/1000.html
+https://propertyof.pages.dev/1000.html
 ----
+
+
+Fork of https://github.com/DIVISIONSolar/Cloudflare-Pages, thanks josh!
+
+Used by all Darren's managed domain.
