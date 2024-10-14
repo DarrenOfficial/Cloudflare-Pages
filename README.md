@@ -2,20 +2,26 @@
 
 Custom HTML pages for cloudflare pro and higher
 
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/ip_block.html
+https://propertyof.pages.dev/waf_block.html
+----
+https://propertyof.pages.dev/waf.html
+----
+https://propertyof.pages.dev/under_attack.html
+----
+https://propertyof.pages.dev/timedout.html
+----
+https://propertyof.pages.dev/managed_challange.html
+----
+https://propertyof.pages.dev/ip_block.html
+----
+https://propertyof.pages.dev/always_online.html
+----
+https://propertyof.pages.dev/500.html
+----
+https://propertyof.pages.dev/1000.html
+----
 
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/waf_block.html
 
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/500.html
+Fork of https://github.com/DIVISIONSolar/Cloudflare-Pages, thanks josh!
 
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/1000.html
-
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/always_online.html
-
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/waf.html
-
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/managed_challange.html
-
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/under_attack.html
-
-# https://cdn.joshsevero.dev/Static/Cloudflare/Custom%20Pages/rate_limit.html
+Used by all Darren's managed domain.
